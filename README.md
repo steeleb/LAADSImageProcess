@@ -4,7 +4,7 @@ Contact: B Steele (B.Steele@colostate.edu)
 
 Scrtips are in development unless otherwise noted.
 
-First process to true color, then play with band boost options.
+First process to true color, then play with band boost options. Ideally, these will be used in a workflow for image segmentation using Doodler.
 
 Ideal application is to output real-time .jpg from LAADS. (Will need to use API to grab these data, maybe in a GH action?)
 
